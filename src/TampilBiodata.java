@@ -11,7 +11,7 @@ public class TampilBiodata{
         int tahunlahir,tahunsekarang;
 
         System.out.println("===========================");
-        System.out.println("Created By TechTutors.my.id");
+        System.out.println("BIODATA");
         System.out.println("===========================");
         System.out.print("Nama        : ");
         nama = input.nextLine();
